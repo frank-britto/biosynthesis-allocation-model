@@ -1,2 +1,2 @@
 # biosynthesis-allocation-model
-Shiny app for dose-response profiling of whole-cell bacterial biosensors
+R code for dose-response profiling of whole-cell bacterial biosensors
